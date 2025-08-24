@@ -9,7 +9,7 @@
 - 🔭 Currently working on **MERN Stack Projects**
 - 🌱 Learning **DSA**
 - 💬 Ask me about **Java, Node.js, React**
-- 📫 Reach me at **yourmail@example.com**
+- 📫 Reach me at **rameshwardangi0611@gmail.com**
 - ⚡ Fun fact: *I debug at 2 AM ☕*
 
 ---
