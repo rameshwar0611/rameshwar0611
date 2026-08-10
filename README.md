@@ -1,48 +1,92 @@
-<h1 align="center">Hi 👋, I'm Rameshwar Dangi</h1>
-<h3 align="center">🚀 Passionate Full-Stack Web Developer | Node.js | React | Java</h3>
+# Hi 👋, I'm Rameshwar Dangi
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### Full-Stack Developer | MERN | TypeScript | JavaScript
 
----
-
-## 🌟 About Me
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Learning **DSA**
-- 💬 Ask me about **Java, Node.js, React**
-- 📫 Reach me at **rameshwardangi0611@gmail.com**
-- ⚡ Fun fact: *I debug at 2 AM ☕*
+I build full-stack web applications using modern JavaScript technologies, with a focus on scalable APIs, responsive interfaces, authentication, payments, AI integrations, and maintainable application architecture.
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github" />
-</p>
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce
+**Full-Stack Multivendor E-Commerce Platform**
+- Built with React, TypeScript, Node.js, Express.js, and MongoDB
+- Multivendor architecture supporting Admin, Seller, and User workflows
+- Integrated AI-powered shopping assistance using Google Gemini
+- Implemented Razorpay and Stripe payment integrations
+- Managed application state using Redux Toolkit
+- Backend containerized with Docker
+- [View Repository](https://github.com/rameshwar0611/E-Commerce)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameshwar0611&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshwar0611&theme=tokyonight" alt="streak" height="160"/>
-</p>
+### 🤖 InterviewIQ
+**AI-Powered Mock Interview SaaS Platform**
+- Built an AI-powered platform for technical interview practice
+- Implemented AI-based interview evaluation and performance analytics
+- Added resume/PDF processing and report generation
+- Integrated Razorpay-based credit monetization
+- Built interactive analytics using Recharts
+- Implemented authentication with Firebase
+- [View Repository](https://github.com/rameshwar0611/InterviewIQ)
 
 ---
 
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=rameshwar0611&theme=onedark&margin-w=15)
+### 🎓 LMS Platform
+**MERN Learning Management System**
+- Built separate workflows for Students and Instructors
+- Implemented course creation and management
+- Integrated Cloudinary for media handling
+- Added Razorpay payment integration
+- Integrated Google Gemini AI functionality
+- Implemented authentication and role-based access
+- Managed frontend state using Redux Persist
+- [View Repository](https://github.com/rameshwar0611/LMS-Platform)
 
 ---
 
-## 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/rameshwar-dangi-0a8000318/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/rameshwar_408" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="rameshwardangi0611@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript • TypeScript • Java • HTML • CSS
+- **Frontend:** React.js • Redux Toolkit • Tailwind CSS • Material UI • Vite
+- **Backend:** Node.js • Express.js • RESTful APIs
+- **Database:** MongoDB • Mongoose
+- **Authentication & Security:** JWT • Firebase Authentication • Role-Based Access Control
+- **Integrations & Tools:** Razorpay • Stripe • Cloudinary • Google Gemini • OpenRouter • Docker • Git
+
+---
+
+## 💡 Engineering Focus
+
+- Full-Stack Web Application Development
+- RESTful API Design
+- Authentication & Authorization
+- Payment Gateway Integration
+- AI-Powered Application Features
+- Database Design
+- State Management
+- Responsive UI Development
+- Problem Solving & Data Structures
+
+---
+
+## 🧠 Problem Solving
+
+- Solved 300+ coding problems across LeetCode, HackerRank, and GeeksforGeeks
+- Completed 100+ Days of Coding on LeetCode
+- Achieved 5⭐ in Problem Solving on HackerRank
+
+---
+
+## 📜 Certifications
+
+- Java (Basic) — HackerRank
+- JavaScript (Basic) — HackerRank
+
+---
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/rameshwar-dangi-0a8000318](https://www.linkedin.com/in/rameshwar-dangi-0a8000318/)
+- **Twitter:** [twitter.com/rameshwar_408](https://twitter.com/rameshwar_408)
+- **Email:** [rameshwardangi0611@gmail.com](mailto:rameshwardangi0611@gmail.com)
