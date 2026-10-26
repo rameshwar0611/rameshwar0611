@@ -1,92 +1,78 @@
-# Hi 👋, I'm Rameshwar Dangi
+# Hi, I'm Rameshwar Dangi
 
-### Full-Stack Developer | MERN | TypeScript | JavaScript
+**Full-Stack Developer**
 
-I build full-stack web applications using modern JavaScript technologies, with a focus on scalable APIs, responsive interfaces, authentication, payments, AI integrations, and maintainable application architecture.
+I build React interfaces and Node.js backends for commerce and AI applications. Previously an **SDE Intern at ITJOBXS**, I'm especially interested in **backend engineering** and **AI-powered applications**—from API design and session management to document retrieval.
 
----
+[GitHub](https://github.com/rameshwar0611) · [LinkedIn](https://www.linkedin.com/in/rameshwar0611/) · [Email](mailto:rameshwardangi0611@gmail.com)
 
-## 🚀 Featured Projects
+## Experience
 
-### 🛒 E-Commerce
-**Full-Stack Multivendor E-Commerce Platform**
-- Built with React, TypeScript, Node.js, Express.js, and MongoDB
-- Multivendor architecture supporting Admin, Seller, and User workflows
-- Integrated AI-powered shopping assistance using Google Gemini
-- Implemented Razorpay and Stripe payment integrations
-- Managed application state using Redux Toolkit
-- Backend containerized with Docker
-- [View Repository](https://github.com/rameshwar0611/E-Commerce)
+### ITJOBXS · SDE Intern
 
----
+*December 2025 – June 2026*
 
-### 🤖 InterviewIQ
-**AI-Powered Mock Interview SaaS Platform**
-- Built an AI-powered platform for technical interview practice
-- Implemented AI-based interview evaluation and performance analytics
-- Added resume/PDF processing and report generation
-- Integrated Razorpay-based credit monetization
-- Built interactive analytics using Recharts
-- Implemented authentication with Firebase
-- [View Repository](https://github.com/rameshwar0611/InterviewIQ)
+- Implemented spam-registration checks using Node.js, HashMap-based whitelisting, and Google reCAPTCHA.
+- Developed **12+ REST APIs** for MERN e-commerce functionality and worked on API integration across the application.
+- Built **20+ reusable React components** with Tailwind CSS and contributed responsive UI sections to the company's interview portal.
 
----
+## Selected Projects
 
-### 🎓 LMS Platform
-**MERN Learning Management System**
-- Built separate workflows for Students and Instructors
-- Implemented course creation and management
-- Integrated Cloudinary for media handling
-- Added Razorpay payment integration
-- Integrated Google Gemini AI functionality
-- Implemented authentication and role-based access
-- Managed frontend state using Redux Persist
-- [View Repository](https://github.com/rameshwar0611/LMS-Platform)
+### [SutrAI](https://github.com/rameshwar0611/SutrAI) — AI Workspace
 
----
+An AI application for conversations, web research, document analysis, and content generation.
 
-## 🛠️ Tech Stack
+**Stack:** React · Node.js · Express · MongoDB · Redis · LangGraph · Qdrant · Docker · AWS
 
-- **Languages:** JavaScript • TypeScript • Java • HTML • CSS
-- **Frontend:** React.js • Redux Toolkit • Tailwind CSS • Material UI • Vite
-- **Backend:** Node.js • Express.js • RESTful APIs
-- **Database:** MongoDB • Mongoose
-- **Authentication & Security:** JWT • Firebase Authentication • Role-Based Access Control
-- **Integrations & Tools:** Razorpay • Stripe • Cloudinary • Google Gemini • OpenRouter • Docker • Git
+- **Service architecture:** Separated authentication, conversations, AI processing, and billing into four backend services behind an Express API gateway.
+- **Document retrieval:** Built LangGraph and LangChain workflows, including a PDF RAG pipeline with text chunking, embeddings, and Qdrant retrieval.
+- **Sessions & billing:** Used Redis for sessions, conversation memory, and per-user request limits; integrated Razorpay-based credit purchases.
+- **Delivery:** Containerized services and automated AWS deployment steps with GitHub Actions, ECR/ECS, and S3/CloudFront.
 
----
+### [E-Commerce](https://github.com/rameshwar0611/E-Commerce) — Multivendor Commerce
 
-## 💡 Engineering Focus
+A full-stack shopping application with customer, seller, and admin workflows.
 
-- Full-Stack Web Application Development
-- RESTful API Design
-- Authentication & Authorization
-- Payment Gateway Integration
-- AI-Powered Application Features
-- Database Design
-- State Management
-- Responsive UI Development
-- Problem Solving & Data Structures
+**Stack:** React · TypeScript · Redux Toolkit · Material UI · Node.js · MongoDB · Gemini
 
----
+- **Backend structure:** Organized the backend into routes, controllers, services, and MongoDB models for product, cart, order, and seller operations.
+- **Typed state:** Used TypeScript and Redux Toolkit to manage typed cart, wishlist, order, and seller state in the React frontend.
+- **Integrations:** Added Razorpay and Stripe payment integrations and Gemini-powered answers grounded in product records.
 
-## 🧠 Problem Solving
+### [InterviewIQ](https://github.com/rameshwar0611/InterviewIQ) — AI Interview Practice
 
-- Solved 300+ coding problems across LeetCode, HackerRank, and GeeksforGeeks
-- Completed 100+ Days of Coding on LeetCode
-- Achieved 5⭐ in Problem Solving on HackerRank
+A resume-informed interview workflow with generated questions, answer feedback, and reports.
 
----
+**Stack:** React · Express · MongoDB · OpenRouter · pdfjs-dist · Recharts · Razorpay
 
-## 📜 Certifications
+- **Interview workflow:** Connected PDF resume extraction to question generation and answer evaluation through six interview API endpoints.
+- **Reporting:** Persisted interview history and scores in MongoDB; built Recharts summaries and downloadable PDF reports.
+- **Credit access:** Implemented Razorpay-backed credit purchases for interview access.
 
-- Java (Basic) — HackerRank
-- JavaScript (Basic) — HackerRank
+### [LMS Platform](https://github.com/rameshwar0611/LMS-Platform) — Course & Lecture Management
 
----
+Implemented course and lecture publishing workflows, Cloudinary-backed media uploads, and Razorpay-based enrollment, with Gemini-assisted course search.
 
-## 🤝 Let's Connect
+## Technical Skills
 
-- **LinkedIn:** [linkedin.com/in/rameshwar-dangi-0a8000318](https://www.linkedin.com/in/rameshwar-dangi-0a8000318/)
-- **Twitter:** [twitter.com/rameshwar_408](https://twitter.com/rameshwar_408)
-- **Email:** [rameshwardangi0611@gmail.com](mailto:rameshwardangi0611@gmail.com)
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, TypeScript, Java, HTML, CSS |
+| Frontend | React, Redux Toolkit, Tailwind CSS, Material UI, Vite |
+| Backend & Authentication | Node.js, Express, REST APIs, JWT, Firebase Authentication |
+| Data & Caching | MongoDB, Mongoose, Redis |
+| AI Applications | LangChain, LangGraph, RAG, Qdrant, Gemini API |
+| Integrations | Razorpay, Stripe, Cloudinary |
+| Development & Delivery | Git, Docker, GitHub Actions, AWS ECS, ECR, S3, CloudFront |
+
+## Problem Solving
+
+- Solved **500+ coding problems** across [LeetCode](https://leetcode.com/u/rameshwar0611/), [HackerRank](https://www.hackerrank.com/profile/rameshwardangi01), and [GeeksforGeeks](https://www.geeksforgeeks.org/user/rameshwar0611/).
+- Achieved a **1,754 LeetCode contest rating** and completed **100+ Days of Coding** on LeetCode.
+- Earned **5 stars in Problem Solving** on HackerRank.
+
+## Education
+
+**B.Tech. (ET) · Madhav Institute of Technology & Science**
+
+*2021 – 2025* · CGPA: **7.4**
